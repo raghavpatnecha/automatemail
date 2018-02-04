@@ -3,7 +3,7 @@ Automate Email Using Python.
 
 This can be used when you have a large list of people's name and their email and you want to send same email to all of them but at the same time you want yo address each one with their name. 
 
-To address each person with name I have created a template ```invite.txt ``.
+To address each person with name I have created a template ```invite.txt ```.
 
 In the ```get_contacts``` function add filepath and name of the excel sheet.
 ```
@@ -25,4 +25,4 @@ email_password = 'example'  # add your email password
 
 ```
 
-I have added an axample.xlsx file and an invite.txt template to give an idea of how both of these file should look like.
+I have added an example.xlsx file and an invite.txt template to give an idea of how both of these file should look like.
