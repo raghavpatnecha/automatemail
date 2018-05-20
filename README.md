@@ -26,3 +26,6 @@ email_password = 'example'  # add your email password
 ```
 
 I have added an example.xlsx file and an invite.txt template to give an idea of how both of these file should look like.
+
+Example on how to send. 
+<img src="https://github.com/raghavpatnecha/automatemail/blob/master/example%20how_to_send_email.png" />
